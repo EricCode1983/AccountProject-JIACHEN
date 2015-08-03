@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Upload Excel</h1>
+
+    @using (Html.BeginForm("UploadFile", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <input id="file" type="file" name="file1" style="font-size: 14px;"/>
+        <input id="file" type="file" name="file2" style="font-size: 14px;"/>
+        <input id="file" type="file" name="file3" style="font-size:14px;" />
+        <input type="submit" value="Upload" class="btn btn-primary btn-lg" />
+        
+    }
+   
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Getting started</h2>
+       
+    </div>
+    <div class="col-md-4">
+        <h2>Get more libraries</h2>
+    </div>
+    <div class="col-md-4">
+        <h2>Web Hosting</h2>
+    </div>
+</div>

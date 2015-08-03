@@ -1,0 +1,6 @@
+D:\Development\2015\TEST1\WindowsTest\NewTechnology\TestProject\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Development\2015\TEST1\WindowsTest\NewTechnology\TestProject\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Development\2015\TEST1\WindowsTest\NewTechnology\TestProject\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Development\2015\TEST1\WindowsTest\NewTechnology\TestProject\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Development\2015\TEST1\WindowsTest\NewTechnology\TestProject\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Development\2015\TEST1\WindowsTest\NewTechnology\TestProject\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
